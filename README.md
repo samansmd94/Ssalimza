@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ssalimza
+- 👋 Hi, I’m Saman
 - 👀 I’m interested in Blockchain.
-- 🌱 I’m currently learning Html,Css,Javascript, Java, Python, Solidity.
+- 🌱 I’m currently learning Python, Solidity, Html,Css,Javascript, Java.
 - 💞️ I’m looking to collaborate on learning coding toward blockchain.
 - 📫 How to reach me: Email: Ssalimza@NYIT.edu
 
